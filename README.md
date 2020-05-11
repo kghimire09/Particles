@@ -1,1 +1,2 @@
 # Particles
+Write a Swing program has small randomly colored particles (filled circles) appear from the center of the window. The particles should start with a random velocity and proceed to move, bouncing off the walls but not each other, for a fixed amount of time. When a ball's time limit is up it should be removed from the window. All of this simulation's parameters (e.g. particle size, max speed, time to live, appearance rate, and so on) should be controlled by constants that are chosen to be ascetically pleasing. 
